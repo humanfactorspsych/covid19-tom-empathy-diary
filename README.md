@@ -8,7 +8,7 @@ License: CC-BY-NC-SA 4.0
 
 
 
-Contact: 
-snuhahnlab@gmail.com 
-Human Factors Psychology Laboratory, 
-Seoul National University, Korea
+Contact: <br>
+snuhahnlab@gmail.com <br>
+Human Factors Psychology Laboratory, <br>
+Seoul National University, Korea <br>
