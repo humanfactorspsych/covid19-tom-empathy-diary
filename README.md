@@ -2,7 +2,9 @@
 
 License: CC-BY-NC-SA 4.0
 
-##### Paper and Dataset currently under review and are to be disclosed publicly by the end of _April, 2020_. 
+### Please note that the paper is currently under review for a conference publication (double-blind). 
+
+### We are waiting for a final decision now, so the full dataset release is scheduled to be disclosed after April 12th (at the earliest).
 
 ### Data Description : To be updated after end of _April 2020_. 
 
