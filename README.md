@@ -2,13 +2,11 @@
 
 License: CC-BY-NC-SA 4.0
 
-### Please note that the paper is currently under review for a conference publication (double-blind). 
+### currently under review for publication
 
-### We are waiting for a final decision now, so the full dataset release is scheduled to be disclosed after April 12th (at the earliest).
+### sample data and description will be uploaded soon
 
-### Data Description : To be updated after end of _April 2020_. 
-
-
+##### If you want to colaborate, please contact us below:
 
 Contact: <br>
 snuhahnlab@gmail.com <br>
