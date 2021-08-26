@@ -3,6 +3,12 @@
 ## Data and Label Description
 <br>
 
+<img src = "./figure_ToM_diary.png" width = 500/>
+
+<br>
+
+<br>
+
 - There were four levels: level 0, 1, 2, 3
 - Level 0 : no mention of other's presense.
 - Level 1 : mentions others' behaviors only.
