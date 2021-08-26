@@ -40,7 +40,7 @@ License: CC-BY-NC-SA 4.0
 
 Test data used for model inference is at ```/data```. <br>
 
-Train data are available to only researchers from verified institutions due to privacy concerns. <br>
+Train data are available to only researchers from verified institutions due to privacy concerns (e.g., mental health and personal experiences) <br>
 
 Contact: <br>
 snuhahnlab@gmail.com <br>
