@@ -1,8 +1,8 @@
 ## Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts
 
-#### Yoon Kyung Lee, Inju Lee, Jae Eun Park, Yoonwon Jung, Jiwon Kim, Sowon Hahn
-#### correspondence: yoonlee78@snu.ac.kr, swhahn@snu.ac.kr
+#### Yoon Kyung Lee*, Inju Lee, Jae Eun Park, Yoonwon Jung, Jiwon Kim, Sowon Hahn**
 #### Human Factors Psychology Lab, Seoul National University
+#### Correspondence: yoonlee78@snu.ac.kr*, swhahn@snu.ac.kr**
 
 ## Data and Label Description
 <br>
