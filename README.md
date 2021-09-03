@@ -8,7 +8,7 @@
 
 1. Lee, YK., Jung, YW., Lee, I., Park, JE., & Hahn, S. (2021). Building a Psychological Ground Truth Dataset with Empathy and Theory-of-Mind During the COVID-19 Pandemic. Cognitive Science Society (CogSci) 2021. [link](https://psyarxiv.com/mpn3w/) <- We used Word2Vec to investigate how people express daily experienced emotions and empathy in their diaries.
 
-2. Lee, Y. K., Lee, I., Park, J. E., Jung, Y., Kim, J., & Hahn, S. (2021). A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts. arXiv preprint arXiv:2108.11810. [link](https://arxiv.org/pdf/2108.11810.pdf) <- We tested whether BERT successfully classify different levels of ToM from the diaries.
+2. Lee, Y. K., Lee, I., Park, J. E., Jung, Y., Kim, J., & Hahn, S. (2021). A Computational Approach to Measure Empathy and Theory-of-Mind from Written Texts. arXiv preprint arXiv:2108.11810. [link](https://arxiv.org/pdf/2108.11810.pdf) <- We tested whether NN and BERT models successfully classify different levels of ToM from the diaries.
 
 
 ## Data and Label Description
