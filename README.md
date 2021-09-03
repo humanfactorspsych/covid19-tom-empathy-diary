@@ -41,8 +41,8 @@
 
 ## File Description <br>
 
-	sent : sentence <br>
-	tom level: Theory of Mind level annotated to each sentence. <br>
+	sent : sentence 
+	tom level: Theory of Mind level annotated to each sentence. 
 <br>
 
 License: CC-BY-NC-SA 4.0
